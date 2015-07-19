@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.secnote.MainActivity" >
+
+    <group android:id="@+id/toplevel_action" >
+        <item
+            android:id="@+id/actionbar_lock"
+            android:icon="@drawable/lockyellow"
+            android:showAsAction="always"
+            android:title="@string/btn_load">
+        </item>
+        <item
+            android:id="@+id/actionbar_save"
+            android:icon="@drawable/saveyellow"
+            android:showAsAction="always"
+            android:title="@string/btn_save">
+        </item>
+    </group>
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settingyellow"
+        android:menuCategory="container"
+        android:showAsAction="always"
+        android:title="@string/actionbar_setting">
+        <menu>
+            <item
+                android:id="@+id/checkpoint_reset"
+                android:title="@string/reset_checkpoints"/>
+            <item
+                android:id="@+id/checkpoint_setimage"
+                android:title="@string/reset_image"/>
+        </menu>
+    </item>
+
+</menu>

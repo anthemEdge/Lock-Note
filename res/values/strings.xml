@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lock Note</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_hint">Enter some text here. </string>
+    <string name="btn_save">Save</string>
+    <string name="btn_load">Load</string>
+    <string name="toasts_save_error">Unable to save</string>
+    <string name="toasts_load_error">Unable to load</string>
+    <string name="title_activity_image">Lock Note</string>
+    <string name="touch_checkpoint">Touch_checkpoint</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="accept">I understand</string>
+    <string name="btn_help">Help</string>
+    <string name="btn_lock">Lock</string>
+    <string name="reset_checkpoints">Reset Checkpoints</string>
+    <string name="reset_image">Change Checkpoint Image</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="choose">Choose from Gallery</string>
+    <string name="replace_dig">Choose a methode</string>
+    <string name="actionbar_setting">Settings</string>
+
+</resources>
