@@ -2,11 +2,12 @@
 
 An customisable and secure text storage Android app, using an unconventional authentication protocol. It uses a four points touch gesture as password to stop unauthorised access. 
 
-Lock Note is completed as a technical exercise, as part [Learn Android 4.0 Programming in Java](https://www.udemy.com/android-tutorial/#/) by [John Purcell](https://www.caveofprogramming.com/). 
+Lock Note is completed as a technical exercise, as part of [Learn Android 4.0 Programming in Java](https://www.udemy.com/android-tutorial/#/) by [John Purcell](https://www.caveofprogramming.com/). 
 
 
 ## Requirements and Installation
 This program requires Android 4.0 or higher.
+
 This program requires compiler with Android SDK API Level 14 or higher.
 
 ## Reference & Related Resource
