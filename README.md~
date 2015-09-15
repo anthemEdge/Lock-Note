@@ -1,6 +1,6 @@
 # Lock Note
 
-A customizable and secure text storage Android app, using an unconventional authentication protocol. It uses a four points touch gesture as the password to stop unauthorized access.
+An customisable and secure text storage Android app, using an unconventional authentication protocol. It uses a four points touch gesture as password to stop unauthorised access. 
 
 Lock Note is completed as a technical exercise, as part of [Learn Android 4.0 Programming in Java](https://www.udemy.com/android-tutorial/#/) by [John Purcell](https://www.caveofprogramming.com/). 
 
